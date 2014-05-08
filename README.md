@@ -1,5 +1,6 @@
 makeitso
 ========
+![MakeItSo](makeitso.jpg)
 
 Heavily stolen from https://github.com/sreuter/node-speakable and then torn apart and reassembled.
 
